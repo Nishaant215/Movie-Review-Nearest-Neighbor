@@ -8,5 +8,8 @@ A program that stores this movie review data using a 2D array [reviewer][movie's
 ![alt-text](Instructions%20for%20Movie_Review_2.jpg)
 
 <hr>
+<b>Example: </b>
+
+<br>
 
 ![alt-text](Movie_Review_Nearest_Example.PNG)
